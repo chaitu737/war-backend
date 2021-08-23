@@ -1,0 +1,4 @@
+2021-08-22 13:20:31[32minfo[39m: 	Listening on port 3000
+2021-08-22 13:20:31[32minfo[39m: 	Connected to database !: mongodb://localhost:27017/gameofthrones
+2021-08-22 13:23:54[32minfo[39m: 	Listening on port 3000
+2021-08-22 13:23:54[32minfo[39m: 	Connected to database !: mongodb://localhost:27017/gameofthrones

@@ -1,0 +1,5 @@
+2021-08-23 10:29:13[32minfo[39m: 	Listening on port 3000
+2021-08-23 10:29:43[33mwarn[39m: 	database is disconnected!!!
+2021-08-23 10:29:43[31merror[39m: 	db: mongodb error MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+2021-08-23 10:30:03[32minfo[39m: 	Listening on port 3000
+2021-08-23 10:30:03[32minfo[39m: 	Connected to database !: mongodb://localhost:27017/gameofthrones
